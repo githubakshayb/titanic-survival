@@ -7,5 +7,5 @@ This project is based upon nueral networks and we used a simple nueral networks.
 * seaborn 
 * matplotlib
 * tensorflow 
-*train_test_split
+* train_test_split
 * StandardScaler
